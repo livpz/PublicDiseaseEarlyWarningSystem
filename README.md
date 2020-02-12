@@ -1,0 +1,2 @@
+# PublicDiseaseEarlyWarningSystem
+建设一个全国范围的公共疫情预警系统，解决加快疫情判断、在空窗期向公众吹哨，同时进行社会协作
